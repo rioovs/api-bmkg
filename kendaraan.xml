@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<kendaraan>
+<data>
+<kode>mb001</kode>
+<tipe>Pajero</tipe>
+<merk>Mitsubishi</merk>
+<jenis>SUV</jenis>
+<penggerak>2WD</penggerak>
+</data>
+<data>
+<kode>mb002</kode>
+<tipe>Jimny Reborn</tipe>
+<merk>Suzuki</merk>
+<jenis>Jip</jenis>
+<penggerak>4WD</penggerak>
+</data>
+<data>
+<kode>mb003</kode>
+<tipe>Strada</tipe>
+<merk>Mitsubishi</merk>
+<jenis>Truck</jenis>
+<penggerak>4WD</penggerak>
+</data>
+<data>
+<kode>mb004</kode>
+<tipe>Serena</tipe>
+<merk>Nissan</merk>
+<jenis>Van</jenis>
+<penggerak>2WD</penggerak>
+</data>
+<data>
+<kode>mb005</kode>
+<tipe>Alphard G</tipe>
+<merk>Toyota</merk>
+<jenis>Van</jenis>
+<penggerak>2WD</penggerak>
+</data>
+<data>
+<kode>mb006</kode>
+<tipe>Taft GT</tipe>
+<merk>Daihatsu</merk>
+<jenis>Jip</jenis>
+<penggerak>4WD</penggerak>
+</data>
+</kendaraan>
